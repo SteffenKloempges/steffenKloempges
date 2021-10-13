@@ -9,7 +9,7 @@ In my code I pay attention to efficiency, effectiveness and readability.
 My technologies:
 
 - HTML                            
-- CSS / SASS
+- CSS / SCSS
 - JavaScript
 - ReactJS
 - NodeJS
