@@ -1,6 +1,6 @@
 ## Hi, nice that you are on my profile. 🤗
 
-I'm Steffen Klömpges and I'm a junior frontend web developer, living in Unna 👨‍💻 .
+I'm Steffen Klömpges and I'm a junior frontend web developer 👨‍💻 .
 I am passionate about new technologies 💻 and love video games 🎮 .
 Currently I work as an main trainer in web development at superCode.
 
