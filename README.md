@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, ich bin Steffen</h1>
 <h3 align="center">A passionate frontend developer and webdev trainer</h3>
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 💬 Ask me about **html, css, scss, js and react**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
